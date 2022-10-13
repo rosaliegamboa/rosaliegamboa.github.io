@@ -166,20 +166,16 @@ p{
 }
 .talent{
     color: rgb(0, 0, 0);
-    border: black solid 5px;
     padding: 35px;
 }
 .about{
-    
     margin: auto;
     padding: 35px;
 }  
 .edu{
-    
     padding: 25px;
 }
 .hobbies{
-    
     margin: auto;
     padding: 35px;
 }  
