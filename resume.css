@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: rgb(146, 195, 218);
+    background-color: rgb(5, 153, 221);
     display:flex;
     justify-content: center;
     align-items: center;
@@ -61,7 +61,7 @@ body{
 }
 
 .profileText h2{
-    color: aliceblue;
+    color: rgb(45, 146, 235);
     font-size: 1.5em;
     margin-top: 20px;
     text-transform: uppercase;
