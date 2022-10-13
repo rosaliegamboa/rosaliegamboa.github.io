@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: rgb(1, 70, 199);
+    background-color: rgb(56, 107, 202);
     display:flex;
     justify-content: center;
     align-items: center;
@@ -30,7 +30,7 @@ body{
 
 .container .left-side {
     position: relative;
-    background: rgb(50, 62, 224);
+    background: rgb(178, 195, 197);
     padding: 40px;
 }
 
