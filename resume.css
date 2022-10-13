@@ -74,6 +74,12 @@ body{
     font-size: 0.8em;
     font-weight: 300;
 }
+.profileText{
+    font-family: algerian;
+    font-size: large;
+    font-style: normal;
+}
+
 
 .contactInfo{
     padding-top: 40px;
