@@ -147,7 +147,8 @@ margin-top: 5px;
 
 .container .right-side {
     position: relative;
-    background: rgb(241, 204, 204);
+    background: rgb(238, 178, 178);
+    padding: 40px;
     border-radius: 100px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -194,7 +195,7 @@ p{
     position: relative;
     width: 100%;
     height: 10px;
-    background: rgb(240, 54, 8);
+    background: rgb(238, 13, 13);
 }
 
 .tech-skills .box .percent div {
